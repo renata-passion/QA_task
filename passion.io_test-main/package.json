@@ -1,0 +1,10 @@
+{
+  "name": "passion.io-tests",
+  "description": "Tests for passion.io website UI",
+  "devDependencies": {
+    "@playwright/test": "^1.16.3"
+  },
+  "dependencies": {
+    "dotenv":"^10.0.0"
+  }
+}
